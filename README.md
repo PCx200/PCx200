@@ -1,4 +1,8 @@
-## Hi there 👋
+## 
+Passionate game developer and software engineer with strong C++, C#, and Unity experience. Currently studying Creative
+Media and Game Technologies at Saxion University. Eager to contribute to a professional team and grow as a backend or
+
+game engine developer.
 
 <!--
 **PCx200/PCx200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
